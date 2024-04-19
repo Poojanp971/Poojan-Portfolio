@@ -44,12 +44,12 @@ const Services = () => {
         <div className="title">
           <img src="/people.webp" alt="" />
           <h1>
-            <motion.b whileHover={{color:"orange"}}>Unique</motion.b> Ideas
+            <motion.b whileHover={{ color: "orange" }}>Unique</motion.b> Ideas
           </h1>
         </div>
         <div className="title">
           <h1>
-            <motion.b whileHover={{color:"orange"}}>For Your</motion.b> Digital Footprint.
+            <motion.b whileHover={{ color: "orange" }}>For Your</motion.b> Digital Footprint.
           </h1>
           <button>WHAT I DO?</button>
         </div>
@@ -66,7 +66,6 @@ const Services = () => {
             aesthetics and seamless user flow. With a focus on both form and function, they
             bring a harmonious blend of design and functionality to their projects.
           </p>
-          <button>Go</button>
         </motion.div>
         <motion.div
           className="box"
@@ -79,7 +78,6 @@ const Services = () => {
             dedication to detail ensures a visually stunning and polished user experience,
             demonstrating a commitment to achieving perfection in every aspect of UI implementation.
           </p>
-          <button>Go</button>
         </motion.div>
         <motion.div
           className="box"
@@ -93,7 +91,6 @@ const Services = () => {
             integration, efficient data management, and a strong foundation for the overall stability
             of applications.
           </p>
-          <button>Go</button>
         </motion.div>
         <motion.div
           className="box"
@@ -107,7 +104,6 @@ const Services = () => {
             contributes to the successful realization of project goals, delivering impactful and
             well-executed features.
           </p>
-          <button>Go</button>
         </motion.div>
       </motion.div>
     </motion.div>
